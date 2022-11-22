@@ -1,0 +1,14 @@
+C:\Users\Santi\source\repos\Unidad1CattaneoCeschiEspindolaOviedo\bin\Debug\netcoreapp3.1\Unidad1CattaneoCeschiEspindolaOviedo.exe
+C:\Users\Santi\source\repos\Unidad1CattaneoCeschiEspindolaOviedo\bin\Debug\netcoreapp3.1\Unidad1CattaneoCeschiEspindolaOviedo.deps.json
+C:\Users\Santi\source\repos\Unidad1CattaneoCeschiEspindolaOviedo\bin\Debug\netcoreapp3.1\Unidad1CattaneoCeschiEspindolaOviedo.runtimeconfig.json
+C:\Users\Santi\source\repos\Unidad1CattaneoCeschiEspindolaOviedo\bin\Debug\netcoreapp3.1\Unidad1CattaneoCeschiEspindolaOviedo.runtimeconfig.dev.json
+C:\Users\Santi\source\repos\Unidad1CattaneoCeschiEspindolaOviedo\bin\Debug\netcoreapp3.1\Unidad1CattaneoCeschiEspindolaOviedo.dll
+C:\Users\Santi\source\repos\Unidad1CattaneoCeschiEspindolaOviedo\bin\Debug\netcoreapp3.1\Unidad1CattaneoCeschiEspindolaOviedo.pdb
+C:\Users\Santi\source\repos\Unidad1CattaneoCeschiEspindolaOviedo\obj\Debug\netcoreapp3.1\Unidad1CattaneoCeschiEspindolaOviedo.csproj.AssemblyReference.cache
+C:\Users\Santi\source\repos\Unidad1CattaneoCeschiEspindolaOviedo\obj\Debug\netcoreapp3.1\Unidad1CattaneoCeschiEspindolaOviedo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Santi\source\repos\Unidad1CattaneoCeschiEspindolaOviedo\obj\Debug\netcoreapp3.1\Unidad1CattaneoCeschiEspindolaOviedo.AssemblyInfoInputs.cache
+C:\Users\Santi\source\repos\Unidad1CattaneoCeschiEspindolaOviedo\obj\Debug\netcoreapp3.1\Unidad1CattaneoCeschiEspindolaOviedo.AssemblyInfo.cs
+C:\Users\Santi\source\repos\Unidad1CattaneoCeschiEspindolaOviedo\obj\Debug\netcoreapp3.1\Unidad1CattaneoCeschiEspindolaOviedo.csproj.CoreCompileInputs.cache
+C:\Users\Santi\source\repos\Unidad1CattaneoCeschiEspindolaOviedo\obj\Debug\netcoreapp3.1\Unidad1CattaneoCeschiEspindolaOviedo.dll
+C:\Users\Santi\source\repos\Unidad1CattaneoCeschiEspindolaOviedo\obj\Debug\netcoreapp3.1\Unidad1CattaneoCeschiEspindolaOviedo.pdb
+C:\Users\Santi\source\repos\Unidad1CattaneoCeschiEspindolaOviedo\obj\Debug\netcoreapp3.1\Unidad1CattaneoCeschiEspindolaOviedo.genruntimeconfig.cache
